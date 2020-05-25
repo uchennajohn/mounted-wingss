@@ -1,0 +1,39 @@
+
+
+#slider-bg {
+    width: 100%;
+    height: auto;
+    background-position: center center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    backface-visibility: hidden;
+    
+    background-image: url("eagle-background.jpg");
+
+    
+
+
+}
+
+.nav {
+ background-color: darkorchid;
+
+}
+p {
+    color:rgb(243, 240, 240);
+}
+h1 {
+    color: rgb(11, 17, 97);
+}
+ span {
+     font-size: 1.2em;
+     color: chocolate;
+ }
+ .verse {
+     color: rgb(248, 96, 75);
+ }
+    /*100% {
+        background-image: url("final-words-bkground.jpg");
+    }
+}
